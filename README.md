@@ -23,7 +23,7 @@ $ git clone https://github.com/hannari-python/python3.8-handson.git
 
 
 ```
-$ cd pandas-handson
+$ cd python3.8-handson
 ```
 
 Dockerコンテナを起動します。
